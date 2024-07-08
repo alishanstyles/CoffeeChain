@@ -8,13 +8,18 @@
 -I beleive my model will generalize to new data because it performed well to that it has not seen. I demonstrated feature engineering by selecting features relevant to Sale. I also used visulizations such as a heat map to gain insight on the fatures with significant correlation to the target and improved the model. The baseline score was 96%. I created a linear regression model using 'Product Id', 'Product Type Num', 'Product Category', 'Type of Coffee', 'Size of Market', 'Market Location', 'Budget Sales', 'Budget Profit', 'Cogs'and 'States' as features.
 
 ## Data Dictionary
-|Product ID  | Product Number        | 
-|Product Type| Type of Product       |
-|Product     | Products Offered      | 
-|Type        | Type of Coffee        |
-|Market Size | Size of the Market    |
-|Market      | Location of the Market|
-|State       | Store Location        |
-|Budget Sales| Estimated Revenue
-
+|Product ID    | Product Number                                                                                     | 
+|Product Type  | Type of Product                                                                                    |
+|Product       | Products Offered                                                                                   | 
+|Type          | Type of Coffee                                                                                     |
+|Market Size   | Size of the Market                                                                                 |
+|Market        | Location of the Market                                                                             |
+|State         | Store Location                                                                                     |
+|Budget Sales  | Estimated Revenue                                                                                  |
+|Budget Profit | Expected Income and Expenses                                                                       |
+|Cogs          | Cost of Goods Sold. The direct costs attributable to the production of the goods sold by a company.|  
+|Profit        | Financial Gain                                                                                     |                                                                                   
+|Sales         |                                                                                                    |
+|Total Expenses| The sum of all costs                                                                               
+|Date          | Date of purchase                                                                                  
 
