@@ -20,6 +20,11 @@
 |Cogs          | Cost of Goods Sold. The direct costs attributable to the production of the goods sold by a company.|  
 |Profit        | Financial Gain                                                                                     |                                                                                   
 |Sales         |                                                                                                    |
-|Total Expenses| The sum of all costs                                                                               
-|Date          | Date of purchase                                                                                  
+|Total Expenses| The sum of all costs                                                                               |
+|Date          | Date of purchase                                                                                   |
+
+## Executive Summary
+
+### Data Cleaning Steps
+I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc. The shape of the dataset consist of 4,248 rows and 14 columns. I then nrenamed Type to Coffee Type for clarity and Date to Date Time because  the date column also as the time. For products I replaced teh name of each product with the a corresponding number; as well as changing the column from product to product category. I did the same replacing the names with numbers and chnaging the column names for the following product type to product type num, coffee type to type of coffee, market size to size of market, market to market location and state to states. 
 
