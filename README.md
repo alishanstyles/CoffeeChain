@@ -26,5 +26,16 @@
 ## Executive Summary
 
 ### Data Cleaning Steps
-I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc. The shape of the dataset consist of 4,248 rows and 14 columns. I then nrenamed Type to Coffee Type for clarity and Date to Date Time because  the date column also as the time. For products I replaced teh name of each product with the a corresponding number; as well as changing the column from product to product category. I did the same replacing the names with numbers and chnaging the column names for the following product type to product type num, coffee type to type of coffee, market size to size of market, market to market location and state to states. 
+I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc. The shape of the dataset consist of 4,248 rows and 14 columns. I then nrenamed Type to Coffee Type for clarity and Date to Date Time because  the date column also as the time. For products I replaced teh name of each product with the a corresponding number; as well as changing the column from product to product category. I did the same replacing the names with numbers and chnaging the column names for the following product type to product type num, coffee type to type of coffee, market size to size of market, market to market location and state to states.
+
+### Key Visualizations
+Include key visualizations that highlight important aspects of the data. Use graphs, charts or any other visuals representaion to make your points. 
+
+#### Visualization 1: [Distribution of Product Types']
+[The most common product type is Espresso having a count of almost 1200. Herbal Tea and Coffee have similiar counts. Tea sis the least common with a count of almost 1000.]
+
+[CoffeeChain Data Analysis](Visualizations/countplot1.png
+
+
+
 
