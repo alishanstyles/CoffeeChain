@@ -31,10 +31,16 @@ I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc.
 ### Key Visualizations
 Include key visualizations that highlight important aspects of the data. Use graphs, charts or any other visuals representaion to make your points. 
 
-#### Visualization 1: [Distribution of Product Types']
+#### Visualization 1: ['Distribution of Product Types']
 [The most common product type is Espresso having a count of almost 1200. Herbal Tea and Coffee have similiar counts. Tea sis the least common with a count of almost 1000.]
 
-[CoffeeChain Data Analysis](Visualizations/countplot1.png
+[Coffee Chain Project](Visualizations/countplot1.png)
+
+### Visualization 2: ['Distribution of Markets']
+[The small market is most common in the west out of the four markets. The major market is most common in the central market compared to the other markets.]
+
+[Coffee Chain Project](Visualizations
+
 
 
 
