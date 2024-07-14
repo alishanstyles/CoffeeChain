@@ -26,7 +26,7 @@
 ## Executive Summary
 
 ### Data Cleaning Steps
-I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc. The shape of the dataset consist of 4,248 rows and 14 columns. I then nrenamed Type to Coffee Type for clarity and Date to Date Time because  the date column also as the time. For products I replaced teh name of each product with the a corresponding number; as well as changing the column from product to product category. I did the same replacing the names with numbers and chnaging the column names for the following product type to product type num, coffee type to type of coffee, market size to size of market, market to market location and state to states.
+I first imprted all the tools I needed such as pandas, matplotlib, seaborn, etc. The shape of the dataset consist of 4,248 rows and 14 columns. I then nrenamed Type to Coffee Type for clarity and Date to Date Time because  the date column also as the time. For products I replaced teh name of each product with the a corresponding number; as well as changing the column from product to product category. I did the same replacing the names with numbers and changing the column names for the following product type to product type num, coffee type to type of coffee, market size to size of market, market to market location and state to states.
 
 ### Key Visualizations
 Include key visualizations that highlight important aspects of the data. Use graphs, charts or any other visuals representaion to make your points. 
@@ -39,7 +39,10 @@ Include key visualizations that highlight important aspects of the data. Use gra
 ### Visualization 2: ['Distribution of Markets']
 [The small market is most common in the west out of the four markets. The major market is most common in the central market compared to the other markets.]
 
-[Coffee Chain Project](Visualizations
+[Coffee Chain Project](Visualizations/countplot2.png)
+
+## Conclusions/Recommendations
+Based on the analysis Regular coffee seems to be more popular compared to decaf coffee. Major(bigger) markets tend to have more sales compared to small markets. Based on these insights I would recommend coffee shops  
 
 
 
