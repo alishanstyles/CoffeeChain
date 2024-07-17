@@ -42,7 +42,8 @@ Include key visualizations that highlight important aspects of the data. Use gra
 [Coffee Chain Project](Visualizations/countplot2.png)
 
 ## Conclusions/Recommendations
-Based on the analysis Regular coffee seems to be more popular compared to decaf coffee. Major(bigger) markets tend to have more sales compared to small markets. Based on these insights I would recommend coffee shops  
+Based on the analysis Regular coffee seems to be more popular compared to decaf coffee. Major(bigger) markets tend to have more sales compared to small markets. Based on these insights I would recommend coffee chains focusing on regular coffee products and to also focus on becoming appart of a major market. 
+
 
 
 
